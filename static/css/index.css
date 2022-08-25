@@ -1,0 +1,964 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div {
+  position: absolute;
+  top: -9px;
+  left: 0;
+  background-color: #e9f8f7;
+  width: 960px;
+  height: 171px;
+  opacity: 0.6;
+}
+.terms-conditions {
+  position: absolute;
+  top: 23px;
+  left: 75px;
+  line-height: 24px;
+  display: inline-block;
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 33px;
+  left: 731px;
+  border-radius: 14.8px;
+  background-color: #fff;
+  width: 85px;
+  height: 80px;
+}
+.blank-line-span {
+  font-weight: 600;
+}
+.blank-line-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.nuego-is-an-electric-bus-serv {
+  position: absolute;
+  top: 50px;
+  left: 75px;
+  font-size: 12px;
+  line-height: 19px;
+  display: inline-block;
+  width: 578px;
+  height: 76px;
+  font-family: Roboto;
+}
+.ellipse-icon,
+.ellipse-icon1,
+.frame-div {
+  position: absolute;
+  top: 70px;
+  left: 765px;
+  width: 7px;
+  height: 7px;
+}
+.ellipse-icon1,
+.frame-div {
+  left: 776px;
+}
+.frame-div {
+  top: 943px;
+  left: 0;
+  width: 960px;
+  height: 159px;
+  opacity: 0.8;
+  font-size: 16px;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 466px;
+  left: 636px;
+  border-radius: 0 0 0 24px;
+  background-color: #e9f8f7;
+  width: 324px;
+  height: 241px;
+  opacity: 0.3;
+}
+.rectangle-div3 {
+  position: absolute;
+  top: 1224px;
+  left: 0;
+  background-color: #d3f1ef;
+  width: 960px;
+  height: 289px;
+  opacity: 0.8;
+}
+.ad-space-div {
+  position: absolute;
+  top: 1352px;
+  left: 445px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #78787d;
+  display: inline-block;
+  width: 75px;
+  height: 19px;
+}
+.rectangle-div4 {
+  position: absolute;
+  top: 86px;
+  left: 1px;
+  border-radius: 0 0 0 60px;
+  background-color: #d3f1ef;
+  width: 959px;
+  height: 380px;
+  opacity: 0.4;
+}
+.subtract-icon {
+  position: relative;
+  width: 545px;
+  height: 191px;
+}
+.ac-sleeper-21,
+.mira-road-div {
+  position: absolute;
+  display: inline-block;
+}
+.mira-road-div {
+  top: 123px;
+  left: 98px;
+  line-height: 28.67px;
+  font-weight: 600;
+}
+.ac-sleeper-21 {
+  top: 108px;
+  left: 242px;
+  font-size: 16px;
+  font-family: Ubuntu;
+  color: #2d2c2c;
+}
+.frame-div2 {
+  position: absolute;
+  top: -9px;
+  left: -26px;
+  width: 594px;
+  height: 219px;
+}
+.mumbai {
+  top: 85px;
+  left: 69px;
+  font-size: 18px;
+  line-height: 38.23px;
+  color: #1e1e26;
+}
+.mumbai,
+.surat-b,
+.vesu-div {
+  position: absolute;
+  display: inline-block;
+}
+.surat-b {
+  top: 85px;
+  left: 420px;
+  font-size: 18px;
+  line-height: 38.23px;
+  color: #1e1e26;
+}
+.vesu-div {
+  top: 116px;
+  left: 428px;
+  line-height: 28.67px;
+  font-weight: 600;
+}
+.ellipse-icon2 {
+  position: relative;
+  width: 1.59px;
+  height: 1.59px;
+  flex-shrink: 0;
+}
+.frame-div3 {
+  position: absolute;
+  top: 66px;
+  left: 203px;
+  width: 137px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.19px;
+}
+.frame-icon,
+.frame-icon1 {
+  position: absolute;
+  top: 54.96px;
+  left: 181.61px;
+  width: 25.49px;
+  height: 25.49px;
+}
+.frame-icon1 {
+  left: 340.28px;
+}
+.am-b {
+  top: 31px;
+  left: 66px;
+  font-size: 18px;
+  line-height: 35.04px;
+  color: #1e1e26;
+}
+.am-b,
+.feb-2022-div,
+.feb-2022-div1,
+.pm-b {
+  position: absolute;
+  display: inline-block;
+}
+.pm-b {
+  top: 31px;
+  left: 410px;
+  font-size: 18px;
+  line-height: 35.04px;
+  color: #1e1e26;
+}
+.feb-2022-div,
+.feb-2022-div1 {
+  top: 58px;
+  left: 67px;
+  line-height: 28.67px;
+  font-weight: 600;
+}
+.feb-2022-div1 {
+  left: 405px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 242px;
+  left: 61px;
+  width: 547px;
+  height: 191px;
+  color: #a5a5a8;
+  font-family: Open Sans;
+}
+.rectangle-div5,
+.rectangle-div6 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  border-radius: 0 0 0 45px;
+  background-color: #22bbb0;
+  width: 960px;
+  height: 87px;
+}
+.rectangle-div6 {
+  top: 0;
+  border-radius: 0 0 0 64px;
+  background-color: #1e1e26;
+  height: 134px;
+}
+.your-ticket-is-here {
+  position: absolute;
+  top: 52px;
+  left: 372px;
+  font-size: 24px;
+  line-height: 36px;
+  display: inline-block;
+  color: #fff;
+}
+.boarding-point-div {
+  position: absolute;
+  top: 503px;
+  left: 105px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: Open Sans;
+  color: #565555;
+  display: inline-block;
+}
+.akar-iconslocation,
+.akar-iconslocation1 {
+  position: absolute;
+  top: 505px;
+  left: 79px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.akar-iconslocation1 {
+  top: 507px;
+  left: 372px;
+}
+.station-rd-sector-1-naya-nag {
+  position: absolute;
+  top: 562px;
+  left: 105px;
+  line-height: 150%;
+  font-family: Open Sans;
+  color: #78787d;
+  display: inline-block;
+  width: 208px;
+}
+.mira-road-b {
+  position: absolute;
+  top: 533px;
+  left: 106.38px;
+  font-size: 16px;
+  display: inline-block;
+  color: #000;
+}
+.dropping-point-div,
+.kadodra-below-the-bridge-102 {
+  position: absolute;
+  left: 401px;
+  font-family: Open Sans;
+  display: inline-block;
+}
+.dropping-point-div {
+  top: 503px;
+  line-height: 22px;
+  font-weight: 600;
+  color: #565555;
+}
+.kadodra-below-the-bridge-102 {
+  top: 563px;
+  line-height: 150%;
+  color: #78787d;
+  width: 208px;
+}
+.this-link-span {
+  color: #f8ec4e;
+}
+.click-on-this-link-to-navigate {
+  top: 654px;
+  left: 107px;
+  line-height: 150%;
+  font-family: Open Sans;
+  width: 520px;
+  height: 22px;
+  color: #00a095;
+}
+.click-on-this-link-to-navigate,
+.kadodra-b,
+.wwwnuegoin-div {
+  position: absolute;
+  display: inline-block;
+}
+.kadodra-b {
+  top: 534px;
+  left: 402.2px;
+  font-size: 16px;
+  color: #000;
+  width: 75.75px;
+}
+.wwwnuegoin-div {
+  top: 0;
+  left: 0;
+}
+.group-div1 {
+  position: absolute;
+  top: 4px;
+  left: 32px;
+  width: 92px;
+  height: 16px;
+}
+.group-div,
+.mdiweb-icon {
+  position: absolute;
+  height: 24px;
+}
+.mdiweb-icon {
+  top: 0;
+  left: 0;
+  width: 24px;
+  overflow: hidden;
+}
+.group-div {
+  top: 54px;
+  left: 749px;
+  width: 124px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.logo-icon {
+  position: absolute;
+  top: 52px;
+  left: 81px;
+  width: 116px;
+  height: 35px;
+  overflow: hidden;
+}
+.pnr-190223 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div4 {
+  position: absolute;
+  top: 185px;
+  left: 82px;
+  border-radius: 16px;
+  background-color: #00a095;
+  display: flex;
+  flex-direction: row;
+  padding: 4px 16px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.ticket-tf6z98757372 {
+  position: absolute;
+  top: 188px;
+  left: 230px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Open Sans;
+  display: inline-block;
+}
+.image-221-icon {
+  position: absolute;
+  top: 277px;
+  left: 700px;
+  border-radius: 4px;
+  width: 151px;
+  height: 150px;
+  object-fit: cover;
+}
+.to-scan-at-the-bus,
+.your-qr-ticket {
+  position: absolute;
+  top: 246px;
+  left: 718px;
+  line-height: 22px;
+  display: inline-block;
+  color: #000;
+}
+.to-scan-at-the-bus {
+  top: 409px;
+  left: 858px;
+  font-weight: 500;
+  color: #d2d2d4;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.line-icon {
+  position: absolute;
+  top: 692px;
+  left: 35px;
+  width: 602px;
+  height: 1px;
+}
+.divanshu-arora-b {
+  top: 767px;
+  left: 105px;
+  font-size: 16px;
+}
+.divanshu-arora-b,
+.passenger-details-div,
+.pax-b {
+  position: absolute;
+  display: inline-block;
+}
+.pax-b {
+  top: 767px;
+  left: 229px;
+  font-size: 16px;
+}
+.passenger-details-div {
+  top: 732px;
+  left: 105px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: Open Sans;
+  color: #565555;
+}
+.akar-iconsperson {
+  position: absolute;
+  top: 734px;
+  left: 79px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.b3-b4-b5-b6-b7,
+.seats-div {
+  position: absolute;
+  display: inline-block;
+}
+.b3-b4-b5-b6-b7 {
+  top: 855px;
+  left: 111px;
+  font-size: 16px;
+  line-height: 24px;
+}
+.seats-div {
+  top: 1px;
+  left: 32px;
+  line-height: 22px;
+  font-weight: 600;
+}
+.group-div2 {
+  position: absolute;
+  top: 819px;
+  left: 79px;
+  width: 78px;
+  height: 24px;
+  color: #565555;
+  font-family: Open Sans;
+}
+.inr-1929-b {
+  top: 27px;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Ubuntu;
+  width: 148px;
+}
+.amount-paid-div,
+.inclusive-of-gst,
+.inr-1929-b {
+  position: absolute;
+  left: 36px;
+  display: inline-block;
+}
+.amount-paid-div {
+  top: 3px;
+  line-height: 18px;
+  font-weight: 600;
+  color: #4b4b51;
+}
+.inclusive-of-gst {
+  top: 55px;
+  color: #78787d;
+  width: 126.7px;
+}
+.frame-div5 {
+  position: absolute;
+  top: 579px;
+  left: 692px;
+  width: 185px;
+  height: 71px;
+  font-size: 12px;
+  color: #2d2c2c;
+  font-family: Open Sans;
+}
+.policies-b,
+.rectangle-div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-div7 {
+  background-color: #fff;
+  width: 960px;
+  height: 170px;
+}
+.policies-b {
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+  font-family: Ubuntu;
+  color: #1e1e26;
+}
+.free-of-charge {
+  margin: 0;
+}
+.children-above-the-age-of-6-wi,
+.pets-are-current-not-allowed-o,
+.pieces-of-luggage-can-be-carri {
+  position: absolute;
+  top: 72px;
+  left: 32px;
+  line-height: 19px;
+  display: inline-block;
+  width: 189px;
+  height: 52px;
+}
+.children-above-the-age-of-6-wi,
+.pets-are-current-not-allowed-o {
+  left: 314px;
+  width: 172px;
+}
+.pets-are-current-not-allowed-o {
+  left: 566px;
+  width: 189px;
+}
+.luggage-div {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+}
+.bold-outline-icon {
+  position: absolute;
+  height: 75.76%;
+  width: 22.09%;
+  top: 7.58%;
+  right: 77.91%;
+  bottom: 16.67%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-div3 {
+  position: absolute;
+  top: 46px;
+  left: 5px;
+  width: 83px;
+  height: 22px;
+  font-size: 14px;
+  color: #565555;
+  font-family: Open Sans;
+}
+.child-passenger-div {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+}
+.frame-icon2 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 65px);
+  width: 16px;
+  height: 16px;
+}
+.group-div4 {
+  position: absolute;
+  top: 46px;
+  left: 292px;
+  width: 130px;
+  height: 22px;
+  font-size: 14px;
+  color: #565555;
+  font-family: Open Sans;
+}
+.pet-policy-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+}
+.group-div5 {
+  position: absolute;
+  top: 46px;
+  left: 566px;
+  width: 66px;
+  height: 22px;
+  font-size: 14px;
+  color: #565555;
+  font-family: Open Sans;
+}
+.dog-icon {
+  position: absolute;
+  top: 48px;
+  left: 539px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  top: 43px;
+  left: 248px;
+  width: 1px;
+  height: 73.5px;
+}
+.vector-icon1 {
+  left: 491.5px;
+}
+.frame-div6,
+.frame-div7 {
+  position: absolute;
+  top: 23px;
+  left: 77px;
+  width: 755px;
+  height: 124px;
+}
+.frame-div6 {
+  top: 1091px;
+  left: 0;
+  background-color: #f4f4f4;
+  width: 960px;
+  height: 170px;
+  font-size: 12px;
+  color: #78787d;
+  font-family: Roboto;
+}
+.pm-b1,
+.reporting-time-div {
+  position: absolute;
+  top: 32px;
+  left: 29px;
+  display: inline-block;
+}
+.reporting-time-div {
+  top: 1px;
+  left: 31px;
+  line-height: 22px;
+  font-weight: 600;
+}
+.frame-div8,
+.group-div6 {
+  position: absolute;
+  width: 135px;
+}
+.group-div6 {
+  top: 0;
+  left: 0;
+  height: 24px;
+  font-size: 14px;
+  color: #565555;
+  font-family: Open Sans;
+}
+.frame-div8 {
+  top: 505px;
+  left: 692px;
+  height: 50px;
+  font-size: 16px;
+  color: #2d2c2c;
+}
+.b,
+.contact-details-div {
+  position: absolute;
+  display: inline-block;
+}
+.b {
+  top: 767px;
+  left: 403px;
+  font-size: 16px;
+}
+.contact-details-div {
+  top: 0;
+  left: 29px;
+  line-height: 22px;
+  font-weight: 600;
+}
+.biphone-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-div7 {
+  position: absolute;
+  top: 732px;
+  left: 372px;
+  width: 132px;
+  height: 22px;
+  color: #565555;
+  font-family: Open Sans;
+}
+.group-icon,
+.rectangle-div8 {
+  position: absolute;
+  top: 843px;
+  left: 459.54px;
+  width: 457.46px;
+  height: 91px;
+}
+.rectangle-div8 {
+  top: 0;
+  left: 0;
+  border-radius: 24px 24px 0 0;
+  background-color: #1e1e26;
+  width: 960px;
+  height: 156px;
+}
+.download-the-app-from,
+.onelinktonuego-div {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.onelinktonuego-div {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  color: #22bbb0;
+}
+.frame-div11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.passport-icon {
+  position: absolute;
+  height: 42.15%;
+  width: 34.71%;
+  top: 20.14%;
+  right: 3.26%;
+  bottom: 37.72%;
+  left: 62.03%;
+  max-width: 100%;
+  max-height: 100%;
+  display: none;
+}
+.freepik-checkmark-inject-59-icon,
+.freepik-device-inject-59-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.freepik-checkmark-inject-59-icon {
+  height: 10.75%;
+  width: 21.95%;
+  top: 81.62%;
+  right: 38.58%;
+  bottom: 7.63%;
+  left: 39.48%;
+}
+.book-now {
+  position: absolute;
+  top: 3.2px;
+  left: 11.32px;
+  display: inline-block;
+}
+.freepik-button-inject-59-div {
+  position: absolute;
+  height: 9.13%;
+  width: 76.26%;
+  top: 70.13%;
+  right: 11.34%;
+  bottom: 20.74%;
+  left: 12.4%;
+}
+.freepik-code-inject-59-icon {
+  position: absolute;
+  height: 36.21%;
+  width: 73.81%;
+  top: 25.61%;
+  right: 12.55%;
+  bottom: 38.18%;
+  left: 13.63%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.mobile-div {
+  position: absolute;
+  height: 90.63%;
+  width: 44.1%;
+  top: 4.37%;
+  right: 14.91%;
+  bottom: 5%;
+  left: 40.99%;
+}
+.freepik-character-inject-59-icon,
+.vector-icon3 {
+  position: absolute;
+  height: 68.01%;
+  width: 29.39%;
+  top: 26.87%;
+  right: 54.89%;
+  bottom: 5.11%;
+  left: 15.73%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon3 {
+  height: 0.63%;
+  width: 100%;
+  top: 95%;
+  right: 0;
+  bottom: 4.37%;
+  left: 0;
+}
+.health-passport-pana-1 {
+  position: relative;
+  width: 122px;
+  height: 116px;
+  flex-shrink: 0;
+  overflow: hidden;
+  font-size: 3px;
+  color: #fff;
+}
+.frame-div10 {
+  position: absolute;
+  top: 20px;
+  left: 589px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.get-in-touch-with-us {
+  position: relative;
+  line-height: 22px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.icon-email-solid {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.supportnuegoin-div {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+}
+.frame-div14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.icon-call-solid {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-div12,
+.frame-div13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 14px;
+  color: #fff;
+  font-family: Open Sans;
+}
+.frame-div12 {
+  position: absolute;
+  top: 49px;
+  left: 67px;
+  flex-direction: column;
+  gap: 16px;
+  font-size: 16px;
+  color: #22bbb0;
+  font-family: Ubuntu;
+}
+.frame-div9 {
+  position: absolute;
+  top: 1454px;
+  left: 0;
+  width: 960px;
+  height: 156px;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Open Sans;
+}
+.ticket-booking-successful {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1610px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #1e1e26;
+  font-family: Ubuntu;
+}
